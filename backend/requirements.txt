@@ -18,3 +18,4 @@ numpy
 ta
 
 pypdf
+newsapi-python
