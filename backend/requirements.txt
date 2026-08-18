@@ -19,3 +19,5 @@ ta
 
 pypdf
 newsapi-python
+streamlit
+requests
