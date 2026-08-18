@@ -1,1 +1,1 @@
-https://ai-stock-market-kwvt.onrender.com
+API_URL = "https://ai-stock-market-kwvt.onrender.com"
